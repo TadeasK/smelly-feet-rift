@@ -1,0 +1,5 @@
+res://Characters/player_cat.tscn
+res://Levels/game_level.tscn
+res://Scripts/player_cat.gd
+res://Scenes/map.tscn
+res://Scenes/game_level.tscn
